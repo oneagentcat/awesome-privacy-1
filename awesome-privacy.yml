@@ -5005,6 +5005,18 @@ categories:
           invoices to minimize custody and trust requirements.
           The deterministically generated avatars help users stick to best privacy practices.
 
+      - name: VeilSwap
+        url: https://veilswap.io
+        onion: https://vsxkpxya5jtcdmi5tz7t2mibpyk2ha7ntjlclnlsp6nhwmx6b7vbhqqd.onion
+        acceptsCrypto: true
+        description: >-
+          Instant non-custodial swap aggregator across 472 coins on 65 networks,
+          including XMR and ZEC. No account, no email, no KYC at any amount.
+          The rate is locked at order creation, and every order page shows the
+          payin and payout transaction hashes so the swap can be verified on-chain.
+          A daily measured-cost dataset (same corridors, same minute, multiple USD
+          amounts) is published publicly at /data.
+
       notableMentions: |
         For traders, [BaseFEX](https://www.basefex.com/) doesn't require ID and has a good privacy policy.
 
